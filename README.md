@@ -1,5 +1,8 @@
 # `linemake` Atomic and Molecular Line List Generator
 
+
+##This repository is Shivani Shah's fork. Currently no changes have been made compared to Alex Ji's fork except for adding this line.
+
 ## Differences
 This repository is Alex Ji's fork. He has changed compared to the main repository:
 
