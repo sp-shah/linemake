@@ -2,6 +2,11 @@
 
 
 ##This repository is Shivani Shah's fork. Currently no changes have been made compared to Alex Ji's fork except for adding this line.
+10/07/21:
+--> Made changes to the Ir I linelist as done in vmplacco/linemake on 09/28/21
+--> Changed the path in linemake.f and recompiled linemake
+--> ran run_linemake.sh
+--> ran merge_lists.py 
 
 ## Differences
 This repository is Alex Ji's fork. He has changed compared to the main repository:

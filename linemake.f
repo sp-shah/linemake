@@ -31,7 +31,7 @@ c     the ones found in an input line list
 
 c*****declare internally where the good gf lists and the Kurucz lists are
       linepath = 
-     .          '/Users/alexji/Dropbox/S5/linelists/linemake/mooglists'
+     .       '/home/shivani/shahlabtools/shahgithub/linemake/mooglists'
       call countline (linepath, nlp)
       if (linepath(nlp:nlp) .ne. '/') then
          nlp = nlp + 1
